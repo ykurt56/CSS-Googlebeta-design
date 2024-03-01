@@ -1,0 +1,34 @@
+* {
+  margin: auto;
+}
+header {
+  margin-top: 10px;
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  width: 90%;
+}
+.ikincitd {
+  width: 37%;
+  background-color: #7ee5da;
+  padding: 5px;
+}
+
+.padding {
+  padding: 5px;
+}
+.fontsize {
+  font-size: small;
+}
+
+.bgcolor {
+  background-color: #70ccc2;
+}
+
+footer {
+  margin: 10px;
+  font-size: small;
+  text-align: center;
+}
