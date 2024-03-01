@@ -4,7 +4,7 @@ Kodluyoruz **CSS Eğitimi** kapsamında yaptığım çalışma
 
 - Google Beta Web Sayfasının aynısını HTML & CSS kullanarak Yapmaya çalıştım.
 - index.html, style.css, olarak 2 kod sayfası bölümden oluşuyor.
-- Sitenin Görünümü ;
+- Yaptığım Çalışmamın Görüntüsü ;
   ![GoogleBeta Page Preview](GoogleBeta-page-preview.jpeg)
 
 ## Installation
